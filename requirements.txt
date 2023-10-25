@@ -1,0 +1,7 @@
+tiktoken
+openai
+torch
+transformers
+peft
+datasets
+flask
